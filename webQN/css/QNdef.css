@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500');
+
+body{
+	background-color: #ffdfb8;
+	background-image: url(../images/BG.svg);
+	background-attachment: fixed;
+	background-position: 0 0;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+div#frame{
+	position: relative;
+	border-radius: 30px;
+	margin: 30pt auto;
+	width: 90%;
+	max-width: 315pt;
+	border-style: solid;
+	border-color: #ffdfb8;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position: 90% 80%;
+	background-color: rgba(255,255,255,0.9);
+}
+
+div#title{
+	position: relative;
+	padding: 0 auto;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 200%;
+	top: 20pt;
+}
+
+div#subtitle{
+	margin: 20pt 0 auto;
+	padding: 0 auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 135%;
+}
+
+div#form{
+	position: relative;
+	width: 220pt;
+	margin: 0 auto;
+	top: 20pt;
+}
+
+div#submitbtn{
+	position: relative;
+	text-align: center;
+	margin: 25pt auto;
+	bottom: 10pt;
+}
+
+textarea#kansou{
+	width: 95%;
+	height: 50pt;
+}
+
+.multiSelection{
+	font-size: 85%;
+}
+
+select{
+	max-width: 200pt;
+}
+
+span#else{
+	display: none;
+}
+
+span.imp{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+div.kugiri{
+	text-align: center;
+}

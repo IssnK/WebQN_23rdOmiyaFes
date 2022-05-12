@@ -1,0 +1,82 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500');
+
+body{
+	background-color: #ffdfb8;
+	background-image: url(../images/BG.svg);
+	background-attachment: fixed;
+	background-position: 0 0;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+div#form{
+	position: relative;
+	border-radius: 30px;
+	margin: 30pt auto;
+	width: 90%;
+	max-width: 315pt;
+	border-style: solid;
+	border-color: #ffdfb8;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position: 90% 80%;
+	background-color: rgba(255,255,255,0.9);
+}
+
+div#title{
+	position: relative;
+	text-align: center;
+	font-weight: bolder;
+	font-size: 200%;
+	top: 20pt;
+}
+
+div#subtitle{
+	margin: 20pt 0 auto;
+	text-align: center;
+	font-weight: bold;
+	font-size: 135%;
+}
+
+div#comment{
+	margin: 15pt auto;
+	width: 85%;
+}
+
+div.hint{
+	font-size: 80%;
+	color: #717375;
+}
+
+div.tag{
+	font-weight: bold;
+}
+
+div#warning{
+	font-size: 80%;
+	color: red;
+	font-weight: bold;
+	text-decoration: underline;
+	display: none;
+}
+
+div.inputbox{
+	position: relative;
+	margin: 25pt 5%;
+}
+
+span.imp{
+	font-weight: bold;
+	text-decoration: underline;
+}
+
+div#startbtn{
+	position: relative;
+	text-align: center;
+	margin: 20pt auto;
+}
+
+p#info{
+	font-size: 70%;
+}
+

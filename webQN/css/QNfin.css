@@ -1,0 +1,56 @@
+@import url('https://fonts.googleapis.com/css?family=M+PLUS+Rounded+1c:500');
+
+body{
+	background-color: #ffdfb8;
+	background-image: url(../images/BG.svg);
+	background-attachment: fixed;
+	background-position: 0 0;
+	font-family: 'M PLUS Rounded 1c', sans-serif;
+}
+
+div#frame{
+	position: relative;
+	border-radius: 30px;
+	margin: 30pt auto;
+	width: 90%;
+	max-width: 315pt;
+	border-style: solid;
+	border-color: #ffdfb8;
+	background-image: url(../images/logo.png);
+	background-repeat: no-repeat;
+	background-size: 40%;
+	background-position: 90% 50%;
+	background-color: rgba(255,255,255,0.9);
+}
+
+div#msg{
+	margin: 35pt 5pt auto;
+	text-align: center;
+	font-size: 120%;
+	color: #f3704b;
+	font-weight: bold;
+}
+
+span#fin-msg{
+	font-size: 300%;
+}
+
+span#num{
+	font-size: 200%;
+}
+
+div#id{
+	margin: 20pt auto;
+	text-align: center;
+	font-size: 120%;
+}
+
+div#comment{
+	margin: 25pt auto;
+	width: 82%;
+}
+
+div#annai{
+	margin: 0 auto 35pt;
+	width: 82%;
+}
