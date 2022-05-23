@@ -11,7 +11,7 @@
 
 ページ1（アンケート番号＆パスワード入力画面）
 
-https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-a062-fb0261545a2f.PNG
+!(https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-a062-fb0261545a2f.PNG)
 
 
 
