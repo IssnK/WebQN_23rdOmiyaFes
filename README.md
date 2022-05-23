@@ -11,11 +11,11 @@
 
 ページ1（アンケート番号＆パスワード入力画面）
 
-!(./webQN/production_img/plgct1.PNG)
+!([./webQN/production_img/plgct1.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/1))
 
 
 ページ2（アンケート回答画面）
-./webQN/production_img/plgct2.PNG
+!([./webQN/production_img/plgct2.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/2))
 
 ページ3（終了画面）
-./webQN/production_img/plgct3.PNG
+!([./webQN/production_img/plgct3.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/3))
