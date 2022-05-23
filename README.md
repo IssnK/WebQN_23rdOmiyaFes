@@ -10,7 +10,8 @@
 一般来場者向けアンケートの一連の流れ
 
 ページ1（アンケート番号＆パスワード入力画面）
-./webQN/production_img/plgct1.PNG
+!(./webQN/production_img/plgct1.PNG)
+
 
 ページ2（アンケート回答画面）
 ./webQN/production_img/plgct2.PNG
