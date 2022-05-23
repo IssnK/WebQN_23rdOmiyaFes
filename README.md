@@ -23,4 +23,4 @@
 
 ページ3（終了画面）
 
-
+![](https://user-images.githubusercontent.com/64080637/169736173-95536bea-9588-4a7e-a82e-61e0495e4eb7.PNG)
