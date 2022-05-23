@@ -18,6 +18,8 @@
 
 ページ2（アンケート回答画面）
 
+![plgct2](https://user-images.githubusercontent.com/64080637/169736963-f669a275-c387-49a5-b78e-03556aef8a22.PNG)
+
 
 ページ3（終了画面）
 
