@@ -11,7 +11,8 @@
 
 ページ1（アンケート番号＆パスワード入力画面）
 
-!([./webQN/production_img/plgct1.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/1))
+https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-a062-fb0261545a2f.PNG
+
 
 
 ページ2（アンケート回答画面）
