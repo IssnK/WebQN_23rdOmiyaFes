@@ -15,8 +15,10 @@ https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-
 
 
 
+
 ページ2（アンケート回答画面）
-!([./webQN/production_img/plgct2.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/2))
+
 
 ページ3（終了画面）
-!([./webQN/production_img/plgct3.PNG](https://github.com/IssnK/WebQN_23rdOmiyaFes/issues/3))
+
+
