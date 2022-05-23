@@ -11,16 +11,16 @@
 
 ページ1（アンケート番号＆パスワード入力画面）
 
-![](https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-a062-fb0261545a2f.PNG)
+![pic1](https://user-images.githubusercontent.com/64080637/169736105-50fe8826-a34a-47b2-a062-fb0261545a2f.PNG)
 
 
 
 
 ページ2（アンケート回答画面）
 
-![plgct2](https://user-images.githubusercontent.com/64080637/169736963-f669a275-c387-49a5-b78e-03556aef8a22.PNG)
+![pic2](https://user-images.githubusercontent.com/64080637/169736963-f669a275-c387-49a5-b78e-03556aef8a22.PNG)
 
 
 ページ3（終了画面）
 
-![](https://user-images.githubusercontent.com/64080637/169736173-95536bea-9588-4a7e-a82e-61e0495e4eb7.PNG)
+![pic3](https://user-images.githubusercontent.com/64080637/169736173-95536bea-9588-4a7e-a82e-61e0495e4eb7.PNG)
